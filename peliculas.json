@@ -1,0 +1,20 @@
+{
+  "p001": {
+    "id": "p001",
+    "nombrePel": "prueba",
+    "duracion": 2,
+    "sinopsis": "prueba",
+    "genero": {
+      "idGen": "g002",
+      "nombreGen": "comedia"
+    },
+    "actor": {
+      "idAct": "a001",
+      "nombreAct": "silvestre"
+    },
+    "formato": {
+      "idFor": "f001",
+      "nombrefor": "dvd"
+    }
+  }
+}
